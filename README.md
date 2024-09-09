@@ -1,4 +1,4 @@
-# new-apm
+# boiler-palet-vue-electron
 
 An Electron application with Vue
 
